@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718607414001
+current_stage: None
+description: ''
+last_updated_timestamp: 1718607414001
+name: base-randomforest
+run_id: 3685d6e4e4ce4c33923a8184f0299d39
+run_link: ''
+source: mlflow-artifacts:/328291410792970352/3685d6e4e4ce4c33923a8184f0299d39/artifacts/modelos_experimento
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/328291410792970352/3685d6e4e4ce4c33923a8184f0299d39/artifacts/modelos_experimento
+user_id: null
+version: 1
