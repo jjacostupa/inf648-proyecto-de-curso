@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/328291410792970352/fc6bd7373e97479f978ef8809c37c846/artifacts
+end_time: 1718654909288
+entry_point_name: ''
+experiment_id: '328291410792970352'
+lifecycle_stage: active
+run_id: fc6bd7373e97479f978ef8809c37c846
+run_name: victorious-asp-706
+run_uuid: fc6bd7373e97479f978ef8809c37c846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718654890587
+status: 3
+tags: []
+user_id: Juan
