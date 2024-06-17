@@ -1,0 +1,68 @@
+artifact_path: modelos_experimento
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.13.2
+model_size_bytes: 311757
+model_uuid: 27ec4ff2c5004f04a9b8747306ce0bce
+run_id: 58f2d9ea49cc493da4f9b89bdd5c5ef4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "AGE", "required": true}, {"type": "long",
+    "name": "SEX", "required": true}, {"type": "double", "name": "INF_ANAM", "required":
+    true}, {"type": "double", "name": "STENOK_AN", "required": true}, {"type": "double",
+    "name": "FK_STENOK", "required": true}, {"type": "double", "name": "IBS_POST",
+    "required": true}, {"type": "double", "name": "GB", "required": true}, {"type":
+    "double", "name": "DLIT_AG", "required": true}, {"type": "double", "name": "ZSN_A",
+    "required": true}, {"type": "double", "name": "nr_04", "required": true}, {"type":
+    "double", "name": "endocr_01", "required": true}, {"type": "double", "name": "zab_leg_02",
+    "required": true}, {"type": "double", "name": "zab_leg_03", "required": true},
+    {"type": "double", "name": "zab_leg_04", "required": true}, {"type": "double",
+    "name": "S_AD_KBRIG", "required": true}, {"type": "double", "name": "D_AD_KBRIG",
+    "required": true}, {"type": "double", "name": "S_AD_ORIT", "required": true},
+    {"type": "double", "name": "D_AD_ORIT", "required": true}, {"type": "double",
+    "name": "K_SH_POST", "required": true}, {"type": "double", "name": "SVT_POST",
+    "required": true}, {"type": "double", "name": "ant_im", "required": true}, {"type":
+    "double", "name": "lat_im", "required": true}, {"type": "double", "name": "inf_im",
+    "required": true}, {"type": "double", "name": "post_im", "required": true}, {"type":
+    "double", "name": "IM_PG_P", "required": true}, {"type": "double", "name": "ritm_ecg_p_01",
+    "required": true}, {"type": "double", "name": "ritm_ecg_p_02", "required": true},
+    {"type": "double", "name": "ritm_ecg_p_04", "required": true}, {"type": "double",
+    "name": "n_r_ecg_p_01", "required": true}, {"type": "double", "name": "n_r_ecg_p_05",
+    "required": true}, {"type": "double", "name": "n_r_ecg_p_06", "required": true},
+    {"type": "double", "name": "n_r_ecg_p_08", "required": true}, {"type": "double",
+    "name": "n_p_ecg_p_03", "required": true}, {"type": "double", "name": "n_p_ecg_p_08",
+    "required": true}, {"type": "double", "name": "n_p_ecg_p_10", "required": true},
+    {"type": "double", "name": "n_p_ecg_p_12", "required": true}, {"type": "double",
+    "name": "GIPO_K", "required": true}, {"type": "double", "name": "K_BLOOD", "required":
+    true}, {"type": "double", "name": "NA_BLOOD", "required": true}, {"type": "double",
+    "name": "ALT_BLOOD", "required": true}, {"type": "double", "name": "AST_BLOOD",
+    "required": true}, {"type": "double", "name": "L_BLOOD", "required": true}, {"type":
+    "double", "name": "ROE", "required": true}, {"type": "double", "name": "TIME_B_S",
+    "required": true}, {"type": "double", "name": "R_AB_1_n", "required": true}, {"type":
+    "double", "name": "R_AB_2_n", "required": true}, {"type": "double", "name": "R_AB_3_n",
+    "required": true}, {"type": "double", "name": "NA_KB", "required": true}, {"type":
+    "double", "name": "NOT_NA_KB", "required": true}, {"type": "double", "name": "LID_KB",
+    "required": true}, {"type": "double", "name": "NITR_S", "required": true}, {"type":
+    "double", "name": "NA_R_1_n", "required": true}, {"type": "double", "name": "NA_R_2_n",
+    "required": true}, {"type": "double", "name": "NA_R_3_n", "required": true}, {"type":
+    "double", "name": "NOT_NA_2_n", "required": true}, {"type": "double", "name":
+    "NOT_NA_3_n", "required": true}, {"type": "double", "name": "B_BLOK_S_n", "required":
+    true}, {"type": "double", "name": "GEPAR_S_n", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-06-17 22:58:15.342890'

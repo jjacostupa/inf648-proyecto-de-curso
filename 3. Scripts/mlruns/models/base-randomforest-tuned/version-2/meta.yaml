@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718662843435
+current_stage: None
+description: ''
+last_updated_timestamp: 1718662843435
+name: base-randomforest-tuned
+run_id: 2f1fc17c4c6e4eee8e5dd2f393e9a71c
+run_link: ''
+source: mlflow-artifacts:/328291410792970352/2f1fc17c4c6e4eee8e5dd2f393e9a71c/artifacts/modelos_experimento
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/328291410792970352/2f1fc17c4c6e4eee8e5dd2f393e9a71c/artifacts/modelos_experimento
+user_id: null
+version: 2

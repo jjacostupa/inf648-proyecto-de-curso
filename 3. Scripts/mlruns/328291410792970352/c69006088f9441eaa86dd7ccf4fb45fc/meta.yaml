@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/328291410792970352/c69006088f9441eaa86dd7ccf4fb45fc/artifacts
+end_time: 1718664940466
+entry_point_name: ''
+experiment_id: '328291410792970352'
+lifecycle_stage: active
+run_id: c69006088f9441eaa86dd7ccf4fb45fc
+run_name: nimble-ray-298
+run_uuid: c69006088f9441eaa86dd7ccf4fb45fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718664940297
+status: 4
+tags: []
+user_id: Juan

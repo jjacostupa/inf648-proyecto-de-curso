@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/328291410792970352/ae71769ad47c4d15a53b0f78b7c5bb7a/artifacts
+end_time: 1718665037811
+entry_point_name: ''
+experiment_id: '328291410792970352'
+lifecycle_stage: active
+run_id: ae71769ad47c4d15a53b0f78b7c5bb7a
+run_name: redolent-stoat-470
+run_uuid: ae71769ad47c4d15a53b0f78b7c5bb7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718665037638
+status: 4
+tags: []
+user_id: Juan
