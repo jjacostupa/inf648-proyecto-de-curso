@@ -30,8 +30,5 @@ El primer informe debe seguir las siguientes indicaciones:
 ## Contenido
 - `2.1 Referencias`: Carpeta que contiene las referencias utilizadas de forma organizada.
 - `2.2 Exploratorio`: Scripts utilizados para generar las figuras mostradas en la sección de descripción del conjunto de datos.
-- `introduccion.tex`: Archivo LaTeX que contiene la sección de introducción del informe, incluyendo la presentación del problema, el objetivo del estudio y la organización del informe.
-- `estado_del_arte.tex`: Archivo LaTeX que contiene la sección de estado del arte, con una síntesis de los aportes de otros artículos científicos relacionados con el problema y el conjunto de datos utilizado.
-- `diseno_experimento.tex`: Archivo LaTeX que contiene la sección de diseño del experimento, incluyendo la descripción del conjunto de datos, la metodología, la selección de características, la medida de calidad, los algoritmos a utilizar y la estrategia de validación.
-- `referencias.bib`: Archivo BibTeX que contiene las referencias bibliográficas utilizadas en el informe.
+- `informe_primera_parte.tex`: Archivo LaTeX que contiene versión editable del primer informe, en format LaTex.
 - `informe_primera_parte.pdf`: Versión compilada en formato PDF de la primera parte del informe escrito.

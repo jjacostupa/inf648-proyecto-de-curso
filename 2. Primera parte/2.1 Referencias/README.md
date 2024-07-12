@@ -1,0 +1,19 @@
+# Referencias utilizadas
+
+1. Ministerio de Salud del Peru-MINSA,"Muertes por infarto al miocardio-Peru, Dia mundial del Corazón", 2012. [En línea]. Disponible en: https://www.gob.pe/institucion/minsa/noticias/34838-al-ano-mas-de4-mil-personas-mueren-por-infarto-en-el-peru.
+2. S. E. Golovenkin et al.,"Trajectories, bifurcations, and pseudo-time inlarge clinical datasets: applications to myocardial infarction and diabetes data", GigaScience, vol. 9, n.º 11. Oxford University Press (OUP), nov.2020. doi: 10.1093/gigascience/giaa128.
+3. G. Quer, R. Arnaout, M. Henne, y R. Arnaout, "Machine Learning and the Future of Cardiovascular Care: JACC State-of-the-Art Review", J Am Coll Cardiol. 2021 Jan, 77 (3) 300–313. doi:10.1016/j.jacc.2020.11.030
+4. J. Van den Eynde, M. Lachmann, K. Laugwitz, C. Manlhiot y S. Kutty, "Successfully implemented artificial intelligence and machine learning applications in cardiology: State-of-the-art review", Trends in Cardiovascular Medicine, Vol. 33, Issue 5, Pages 265-271, 2023. doi: 10.1016/j.tcm.2022.01.010.
+5. R. Sevakula, W. Au-Yeung, J. Singh, E. Heist, E. Isselbacher y A. Armoundas, "State-of-the-Art Machine Learning Techniques Aiming to Improve Patient Outcomes Pertaining to the Cardiovascular System", Journal of the American Heart Association. Vol. 9, Issue 4, 2020, Pages e013924. doi: 10.1161/JAHA.119.013924.
+6. H. Benzakour, C. Chekira, H. E. Fadili, y K. Zenkouar, "A State of Art of Cardiovascular Diseases Using Machine Learning Algorithms", 2023 7th IEEE Congress on Information Science and Technology (CiSt). IEEE, dic. 16, 2023. doi: 10.1109/cist56084.2023.10409886.
+7. A. Moore y M. Bell, "XGBoost, A Novel Explainable AI Technique, in the Prediction of Myocardial Infarction: A UK Biobank Cohort Study", Clinical Medicine Insights: Cardiology, vol. 16. SAGE Publications, p.117954682211336, ene. 2022. doi: 10.1177/11795468221133611.
+8. A. L. Garcez Vicente, R. Malaquias Jr. y R. Romero. "Explainable LightGBM Approach for Predicting Myocardial Infarction Mortality", ArXiv, abs/2404.15029.
+9. Tiwari, R. (9 de febrero de 2023) "Advanced Evaluation Metrics for Imbalanced Classification Models". [En línea]. Disponible en: https://medium.com/cuenex/advanced-evaluation-metrics-forimbalanced-classification-models-ee6f248c90ca
+10. M. Mesinovic y K.-W. Yang, "Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability", 2022 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, sep. 27, 2022. doi: 10.1109/bhi56158.2022.9926915.
+11. A. Newaz, M. S. Mohosheu, y Md. A. Al Noman, "Predicting complications of myocardial infarction within several hours of hospitalization using data mining techniques", Informatics in Medicine Unlocked, vol. 42. Elsevier BV, p. 101361, 2023. doi: 10.1016/j.imu.2023.101361.
+12. D. A. Rossiev, S. E. Golovenkin, V. A. Shulman, y G. V. Matjushin, "Neural networks for forecasting of myocardial infarction complications", The Second International Symposium on Neuroinformatics and Neurocomputers. IEEE. doi: 10.1109/isninc.1995.480871.
+13. R. Ghafari et al., "Prediction of the Fatal Acute Complications of Myocardial Infarction via Machine Learning Algorithms", The Journal
+of Tehran University Heart Center. Knowledge E DMCC, ene. 30, 2024. doi: 10.18502/jthc.v18i4.14827.
+14. Narayan et. al. (2023) "Myocardial Infarction Complications SDS322E - Final Project". [En línea]. Disponible en: https://github.com/sarvagnyanarayan/myocardial-infarctions
+15. T. Akiba, S. Sano,T. Yanase, T. Ohta y M. Koyama. "Prediction of the Fatal Acute Complications of Myocardial Infarction via Machine
+Learning Algorithms"Optuna: A Next-Generation Hyperparameter Optimization Framework". The 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, p. 2623-2631, 2019. doi: 10.1145/3292500.333070.
