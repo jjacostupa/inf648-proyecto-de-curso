@@ -9,6 +9,7 @@ Este proyecto tiene como objetivo analizar el dataset "Myocardial Infarction Com
 - Huerta Firma, Ronny Michael (20184255)
 
 ## Estructura del Repositorio
+```bash
 inf648-proyecto-de-curso/
 ├── 1. Propuesta de proyecto
 │   └── Propuesta de Proyecto - Grupo 7_ Myocardial Infarction Complications.pdf
@@ -17,6 +18,7 @@ inf648-proyecto-de-curso/
 │   └── 2.2 Exploratorio
 ├── 3. Scripts
 └── 4. Informe final
+```
 
 - `1. Propuesta de proyecto`: Contiene el primer entregable, la propuesta de plan de trabajo, alcance y roles asignados para llevar a cabo el proyecto.
 - `2. Primera parte`: Contiene los documentos y scripts utilizados para redactar la primera parte del informe escrito.
